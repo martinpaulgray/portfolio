@@ -1,5 +1,7 @@
 * {
   box-sizing: border-box;
+  padding-left: 0;
+  margin-left: 0;
 }
 
 html{
@@ -16,6 +18,8 @@ html{
   justify-content: center;
   flex-wrap: wrap;
   align-items: center;
+  padding-left: 0;
+  margin-left: 0;
 }
 
 #top{
