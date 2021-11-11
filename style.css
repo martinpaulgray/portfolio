@@ -125,7 +125,7 @@ padding-top: 20px;
  padding-left: 30px;
  padding-right: 30px;
   line-height: 1.5rem;
-  font-family: cabin, sans-serif;
+  
 }
 
 #websites{
@@ -186,7 +186,7 @@ padding-bottom: 30px;
 
 .skillset li {
   line-height: 1.5rem;
-  font-family: cabin, sans-serif;
+  
 }
 
 #skillsettext{
@@ -254,9 +254,7 @@ text-align: center;
 }
 
 
-p{
-  font-family: cabin, sans-serif;
-}
+
 
 
 footer{
